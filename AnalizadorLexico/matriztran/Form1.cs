@@ -163,7 +163,7 @@ namespace matriztran
                         }
                         else if (Actual.ToString() == columnas[i])
                         {
-                            MessageBox.Show(Actual.ToString() + " " + celda);
+                            //MessageBox.Show(Actual.ToString() + " " + celda);
                             if (celda != "ERROR" && celda != "")
                             {
                                 Estado = int.Parse(celda);
@@ -210,15 +210,30 @@ namespace matriztran
             List<int> espacios = new List<int>();
 
             int cont = 0;
+            bool cad = false;
+            int com = 0;
             foreach (char x in fuente)
             {
-                if(x == ' ')
+                if (x == '"')
+                {
+                    if(!cad)
+                        cad = true;
+                    else
+                        cad = false;
+                }
+                else if (x == '/')
+                    com++;
+
+                if (x == ' ' && !cad && com == 0)
                     cont++;
                 if (x == '▾')
                 {
                     cont++;
                     espacios.Add(cont);
                 }
+
+                if (com == 4)
+                    com = 0;
             }
 
             cont = 0;
