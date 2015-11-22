@@ -1,0 +1,30 @@
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\bin\Debug\matriztran.exe.config
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\bin\Debug\matriztran.exe
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\bin\Debug\matriztran.pdb
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.Form1.resources
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.exe
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.pdb
+c:\users\juan\documents\visual studio 2015\Projects\matriztran\matriztran\obj\Debug\matriztran.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\bin\Debug\matriztran.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\bin\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\bin\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztran - copia\matriztran\obj\Debug\matriztran.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\bin\Debug\matriztran.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\bin\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\bin\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\matriztranExcel2\matriztran\obj\Debug\matriztran.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\bin\Debug\matriztran.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.pdb

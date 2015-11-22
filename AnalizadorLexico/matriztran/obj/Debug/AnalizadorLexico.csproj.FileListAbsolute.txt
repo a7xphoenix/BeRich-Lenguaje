@@ -1,0 +1,9 @@
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\bin\Debug\matriztran.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\bin\Debug\matriztran.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\bin\Debug\matriztran.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\matriztran\obj\Debug\matriztran.Properties.Resources.resources
