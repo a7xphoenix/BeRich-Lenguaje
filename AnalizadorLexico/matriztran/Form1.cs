@@ -94,7 +94,7 @@ namespace matriztran
             txtTokens.Text = "";
             ContIds = 0;
             bool BanCadena = false;
-
+            bool[] BanCom = { false, false};
             ///////////////
             try
             {
@@ -107,12 +107,24 @@ namespace matriztran
                     else
                     {
                         Actual = id[indice];
-                        if (Actual == '"' && !BanCadena)
+                        if (Actual == '"' && !BanCadena && (!BanCom[0] && !BanCom[1]))
                             BanCadena = true;
                         else if (Actual == '"' && BanCadena)
                             BanCadena = false;
 
-                        if (Actual == ' ' && BanCadena)
+                        if (Actual == '/')
+                        {
+                            if (!BanCom[0] && !BanCom[1]) //0 0
+                                BanCom[0] = true;
+                            else if (BanCom[0] && !BanCom[1])//1 0
+                                BanCom[1] = true;
+                            else if (BanCom[0] && BanCom[1])//1 1
+                                BanCom[0] = false;
+                            else if (!BanCom[0] && BanCom[1])//0 1
+                                BanCom[1] = false;
+                        }
+
+                        if (Actual == ' ' && (BanCadena || (BanCom[0] && BanCom[1])))
                             Actual = '⇢';
                         else if (Actual == ' ' && !BanCadena)
                             DEL = true;
